@@ -1,2 +1,1 @@
-# foolish.
-Aprendendo
+# Primeiros códigos em Python
